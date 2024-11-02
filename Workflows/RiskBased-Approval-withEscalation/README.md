@@ -20,6 +20,10 @@
 
 **Workflow** is a standard object used to 
 
+
+![Workflow Diagram](./images/visual.png)
+
+
 Some text.
 
 
