@@ -1,4 +1,4 @@
-# E-mail Template - Access Request Workflows (Saviynt Artifact)
+# E-mail Template
 
 **Disclaimer**
 
